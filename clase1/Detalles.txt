@@ -29,3 +29,5 @@ Commandos de git:
     Hace el efecto inverso al push
 -git log
     registro de quién hizo cada dev, o mejor dicho el identificador
+-git checkout -b
+     haces un cambio a una nueva rama o copia del proyecto principal
