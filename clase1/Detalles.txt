@@ -19,5 +19,13 @@ Merge = unir los cambios de la rama copiadas a las ramas main.
 Commandos de git:
 
 - git init
+    Hay que tener en cuenta la ruta que aparece en la terminal, al hacer git init se hará un seguimiento de todos sus archivos que lo contiene.
 - git branch -M main
 - git status
+- git commit -m "comentario"
+- git push
+    El dev1 tiene contenido que no tiene los otros devs, con push agrega todo lo nuevo a la nube.
+- git pull
+    Hace el efecto inverso al push
+-git log
+    registro de quién hizo cada dev, o mejor dicho el identificador
