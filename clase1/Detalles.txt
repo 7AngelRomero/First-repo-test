@@ -31,3 +31,5 @@ Commandos de git:
     registro de quién hizo cada dev, o mejor dicho el identificador
 -git checkout -b
      haces un cambio a una nueva rama o copia del proyecto principal
+-git merger
+    agrega los cambios de una ramificación a la raa principal después de confirmar que el codigo funcione
