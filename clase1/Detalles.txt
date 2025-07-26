@@ -1,0 +1,23 @@
+//Comandos de powershell
+más detalle en https://devblogs.microsoft.com/scripting/table-of-basic-powershell-commands/
+
+ni =  nuevo archivo
+ls = listado de contenido
+cd = cambio de directorio
+cd .. = cerrar carpeta
+cls = limpiar teminal
+move = mover item de un lugar a otro
+rm = eliminar item
+
+//Fundamentos de git
+git hol amundo/canal de youtube
+
+Branch = Rama de nuestro proyecto, existen ramas Main y copias.
+Commit = compromiso, cambio o agregador de características de una rama.
+Merge = unir los cambios de la rama copiadas a las ramas main.
+
+Commandos de git:
+
+- git init
+- git branch -M main
+- git status
